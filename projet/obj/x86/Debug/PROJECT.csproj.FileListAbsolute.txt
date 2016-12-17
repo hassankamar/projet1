@@ -1,0 +1,23 @@
+C:\Users\Admin\documents\visual studio 2010\Projects\projet\projet\obj\x86\Debug\projet.exe
+C:\Users\Admin\documents\visual studio 2010\Projects\projet\projet\obj\x86\Debug\projet.pdb
+C:\Users\Admin\documents\visual studio 2010\Projects\projet\projet\obj\x86\Debug\projet.Form1.resources
+C:\Users\Admin\documents\visual studio 2010\Projects\projet\projet\obj\x86\Debug\projet.Form2.resources
+C:\Users\Admin\documents\visual studio 2010\Projects\projet\projet\obj\x86\Debug\projet.Form3.resources
+C:\Users\Admin\documents\visual studio 2010\Projects\projet\projet\obj\x86\Debug\projet.Form4.resources
+C:\Users\Admin\documents\visual studio 2010\Projects\projet\projet\obj\x86\Debug\projet.Properties.Resources.resources
+C:\Users\Admin\documents\visual studio 2010\Projects\projet\projet\obj\x86\Debug\PROJECT.csproj.GenerateResource.Cache
+C:\Users\Admin\documents\visual studio 2010\Projects\projet\projet\obj\x86\Debug\projet.Form7.resources
+C:\Users\hassan\Desktop\projet\projet\obj\x86\Debug\projet.exe
+C:\Users\hassan\Desktop\projet\projet\obj\x86\Debug\projet.Form1.resources
+C:\Users\hassan\Desktop\projet\projet\obj\x86\Debug\projet.Form2.resources
+C:\Users\hassan\Desktop\projet\projet\obj\x86\Debug\projet.Form3.resources
+C:\Users\hassan\Desktop\projet\projet\obj\x86\Debug\projet.Form4.resources
+C:\Users\hassan\Desktop\projet\projet\obj\x86\Debug\projet.Form7.resources
+C:\Users\hassan\Desktop\projet\projet\obj\x86\Debug\projet.Properties.Resources.resources
+C:\Users\hassan\Desktop\projet\projet\obj\x86\Debug\PROJECT.csproj.GenerateResource.Cache
+C:\Users\hassan\Desktop\projet\projet\bin\Debug\projet.exe
+C:\Users\hassan\Desktop\projet\projet\bin\Debug\projet.pdb
+C:\Users\hassan\Desktop\projet\projet\obj\x86\Debug\projet.pdb
+C:\Users\hassan\Desktop\projet\projet\obj\x86\Debug\projet.Form6.resources
+C:\Users\hassan\Desktop\projet\projet\obj\x86\Debug\PROJECT.csprojResolveAssemblyReference.cache
+C:\Users\hassan\Desktop\projet\projet\obj\x86\Debug\projet.Form8.resources

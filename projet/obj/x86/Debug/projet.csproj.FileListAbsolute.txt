@@ -1,0 +1,12 @@
+c:\users\admin\documents\visual studio 2010\Projects\projet\projet\obj\x86\Debug\projet.Form1.resources
+c:\users\admin\documents\visual studio 2010\Projects\projet\projet\obj\x86\Debug\projet.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2010\Projects\projet\projet\obj\x86\Debug\projet.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2010\Projects\projet\projet\bin\Debug\projet.exe
+c:\users\admin\documents\visual studio 2010\Projects\projet\projet\bin\Debug\projet.pdb
+c:\users\admin\documents\visual studio 2010\Projects\projet\projet\obj\x86\Debug\projet.exe
+c:\users\admin\documents\visual studio 2010\Projects\projet\projet\obj\x86\Debug\projet.pdb
+c:\users\admin\documents\visual studio 2010\Projects\projet\projet\obj\x86\Debug\projet.Form2.resources
+C:\Users\Admin\documents\visual studio 2010\Projects\projet\projet\obj\x86\Debug\projet.csprojResolveAssemblyReference.cache
+C:\Users\Admin\documents\visual studio 2010\Projects\projet\projet\obj\x86\Debug\projet.Form3.resources
+C:\Users\Admin\documents\visual studio 2010\Projects\projet\projet\obj\x86\Debug\projet.Form4.resources
+C:\Users\Admin\documents\visual studio 2010\Projects\projet\projet\obj\x86\Debug\projet.Form5.resources
